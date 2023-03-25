@@ -1,0 +1,15 @@
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\obj\Debug\net6.0\operatorOverloadingCalculator.csproj.AssemblyReference.cache
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\obj\Debug\net6.0\operatorOverloadingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\obj\Debug\net6.0\operatorOverloadingCalculator.AssemblyInfoInputs.cache
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\obj\Debug\net6.0\operatorOverloadingCalculator.AssemblyInfo.cs
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\obj\Debug\net6.0\operatorOverloadingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\bin\Debug\net6.0\operatorOverloadingCalculator.exe
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\bin\Debug\net6.0\operatorOverloadingCalculator.deps.json
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\bin\Debug\net6.0\operatorOverloadingCalculator.runtimeconfig.json
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\bin\Debug\net6.0\operatorOverloadingCalculator.dll
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\bin\Debug\net6.0\operatorOverloadingCalculator.pdb
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\obj\Debug\net6.0\operatorOverloadingCalculator.dll
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\obj\Debug\net6.0\refint\operatorOverloadingCalculator.dll
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\obj\Debug\net6.0\operatorOverloadingCalculator.pdb
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\obj\Debug\net6.0\operatorOverloadingCalculator.genruntimeconfig.cache
+C:\Users\meesh\source\repos\operatorOverloadingCalculator\operatorOverloadingCalculator\obj\Debug\net6.0\ref\operatorOverloadingCalculator.dll
